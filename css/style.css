@@ -1,0 +1,50 @@
+.content {
+  text-align: center;
+}
+
+.rankButton {
+  text-align: left;
+}
+
+.score {
+  text-align: right;
+}
+
+.title,.score{
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.rank {
+  text-align: right;
+  width: 50px;
+}
+
+.name {
+   text-align: center;
+   width: 200px;
+}
+
+.countDown {
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+table {
+  border-spacing: 1px;
+  border-collapse:separate;
+  border: solid;
+  width: 450px;
+}
+
+td {
+  text-align: center;
+  width: 150px;
+}
+
